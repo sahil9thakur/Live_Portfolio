@@ -24,7 +24,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: 0.97;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -194,10 +194,6 @@ main {
       opacity: 0.5;
       border-color: #eece1a;
       transition: all 0.5s ease-out; }
-
-.projectImage > img:hover {
-  width: 900px;
-  height: 500px; }
 
 .boxes {
   display: flex;
