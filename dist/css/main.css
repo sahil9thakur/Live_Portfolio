@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/dist/img/portrait1.jpg");
+      background: url("/dist/img/menu (2).jpg");
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -194,6 +194,10 @@ main {
       opacity: 0.5;
       border-color: #eece1a;
       transition: all 0.5s ease-out; }
+
+.projectImage > img:hover {
+  width: 900px;
+  height: 500px; }
 
 .boxes {
   display: flex;
